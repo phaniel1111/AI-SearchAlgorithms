@@ -1,4 +1,4 @@
-# AI-SearchAlgorithms<br>
+# AI - Search Algorithms
 
 ---
 
